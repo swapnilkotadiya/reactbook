@@ -1,0 +1,180 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+.card {
+  text-decoration: none !important;
+}
+.navbar {
+  text-decoration: none !important;
+}
+.page-heading {
+  height: 41px;
+  padding-top: 20px;
+
+  line-height: 40px;
+  position: relative;
+  font-size: 24px;
+  padding-left: 82px;
+}
+.page-heading-title {
+  font-family: "Montserrat", sans-serif;
+  border-bottom: 3px solid #ff571e;
+  padding: 0 12px;
+}
+.card-body {
+  padding: 0 15px;
+  margin-top: 15px;
+}
+.book-name {
+  color: #666;
+  font-family: "Montserrat", sans-serif;
+  text-decoration: none !important;
+  outline: none !important;
+}
+.book-title {
+  font-size: 16px;
+  line-height: 1.3;
+  margin-bottom: 0.5rem;
+}
+.content-price {
+  width: auto;
+  display: inline-block;
+}
+.product-price {
+  color: #ff571e;
+  font-size: 14px;
+  font-weight: 600;
+  padding-left: 15px;
+  padding-right: 5px;
+}
+.old-price {
+  text-decoration: line-through;
+
+  line-height: 21px;
+  color: #666;
+  font-size: 14px;
+  font-weight: 600;
+}
+.discount {
+  width: 67px;
+  height: 44px;
+  background: url("https://www.buybooksindia.com/assets/images/price-percent-br.png")
+    no-repeat center center;
+  color: #fff;
+  line-height: normal;
+  text-align: center;
+  font-size: 14px;
+  position: absolute;
+  top: 10px;
+  right: 0;
+  font-family: "Arial Narrow", Arial, sans-serif;
+  padding-left: 3px;
+  padding-top: 2px;
+}
+.pb0 {
+  padding-top: 16px;
+  padding-bottom: 30px;
+}
+.pt50 {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+}
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.col-sm-12 {
+  width: 100%;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.col-md-4 {
+  width: 33.33333333%;
+}
+.bbi-pro-detail-slider-parent {
+  position: relative;
+  border: 3px solid #f2f2f2;
+  padding: 1rem 0.5rem;
+}
+.product-full {
+  height: auto;
+  text-align: center;
+}
+.pb-right-column {
+  line-height: 30px;
+}
+
+.col-md-8 {
+  width: 66.66666667%;
+}
+.product-name {
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+}
+.price {
+  font-size: 26px;
+  font-weight: bold;
+  color: #ff571e;
+}
+.old-price {
+  text-decoration: line-through;
+  margin-right: 15px;
+}
+.discountonbook {
+  background: #ff9900;
+  color: #fff;
+  padding: 0 15px;
+  text-align: center;
+  margin-right: 0;
+  height: 23px;
+  line-height: 23px;
+  vertical-align: auto;
+}
+.aut {
+  display: inline-block;
+  margin-left: 5px;
+  font-size: 14px;
+  font-weight: 400;
+}
+.information {
+  line-height: 24px;
+}
+.info {
+  font-family: "Montserrat", sans-serif;
+}
+.shadow {
+  background-color: #000000;
+}
+.ml-2 {
+  color: #f2f2f2;
+}
+.ml-4 {
+  font-weight: 400;
+  color: #f2f2f2;
+}
+.navbar {
+  background-color: #000000;
+}
+.navbar-brand,
+.nav-link {
+  color: #f2f2f2;
+}
+.bi {
+  background-color: #f2f2f2;
+}
+#basic-navbar-nav {
+  font-weight: 200;
+}
+#cardss {
+  text-decoration: none;
+}
